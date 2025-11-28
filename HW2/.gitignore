@@ -1,0 +1,12 @@
+__pycache__/
+msc-testing/
+msc-training/
+msc-validation/
+saved_models/
+
+msc-test.zip
+msc-train.zip
+msc-val.zip
+
+.DS_Store
+poetry.lock
